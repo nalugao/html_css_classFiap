@@ -65,6 +65,7 @@ O seletor * representa todas as marcações que estão na página*/
 
 .cards {
   min-width: 100vh;
+  min-height: 70vh;
   background-color: var(--color-dark);
   color: var(--color-light);
   display: flex;
