@@ -56,7 +56,7 @@ O seletor * representa todas as marcações que estão na página*/
   padding: 7px 30px; /* cima/baixo direita/esquerda*/
   border-radius: 70px;
   font-weight: 700;
-  transition: background-color (--transition); /*declarar que a transição acontecerá apenas no bg-coloc*/
+  transition: background-color var(--transition); /*declarar que a transição acontecerá apenas no bg-coloc*/
 }
 
 .btn:hover {
